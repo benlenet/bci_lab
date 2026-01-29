@@ -1,0 +1,38 @@
+{
+  "class_labels": [
+    "BigDownThoughts",
+    "BigUpThoughts",
+    "CloseThoughts",
+    "DownThoughts",
+    "LeftThoughts",
+    "OpenThoughts",
+    "RightThoughts",
+    "SlowDownThoughts",
+    "SmallDownThoughts",
+    "SmallUpThoughts",
+    "SpeedUpThoughts",
+    "StopThoughts",
+    "TwistLeftThoughts",
+    "TwistRightThoughts",
+    "UpThoughts"
+  ],
+  "num_features": 255,
+  "optimal_thresholds": {
+    "BigDownThoughts": 0.35736716479867164,
+    "BigUpThoughts": 0.4808847773231334,
+    "CloseThoughts": 0.26552973472494007,
+    "DownThoughts": 0.28540959991302467,
+    "LeftThoughts": 0.2258488258317025,
+    "OpenThoughts": 0.2414228389570853,
+    "RightThoughts": 0.19749043764454716,
+    "SlowDownThoughts": 0.24389102336020121,
+    "SmallDownThoughts": 0.34142580402854356,
+    "SmallUpThoughts": 0.40173125960797207,
+    "SpeedUpThoughts": 0.2906765057621222,
+    "StopThoughts": 0.22007481863646228,
+    "TwistLeftThoughts": 0.3818208750914229,
+    "TwistRightThoughts": 0.3801069003295031,
+    "UpThoughts": 0.4228912164699838
+  },
+  "creation_date": "2025-04-07T15:23:09.643879"
+}
